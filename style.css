@@ -12,7 +12,7 @@ body{
 
 #navbarcont li a{
     text-decoration: none;
-    color: whitesmoke;
+    color: #F5F5F5;
 }
 
 #navbarcont li{
@@ -22,4 +22,8 @@ body{
 #navbarcont {
     background-color: #407AAB;
     border-radius: 2px;
+}
+
+.quickguide {
+    background-color: #F5F5F5;
 }
