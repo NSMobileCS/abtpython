@@ -1,0 +1,25 @@
+.blk{
+    display: inline-block;
+}
+
+body{
+    background-color: #245176;
+}
+
+#logoandsearch{
+    
+}
+
+#navbarcont li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#navbarcont li{
+    display: inline-block;
+}
+
+#navbarcont {
+    background-color: #407AAB;
+    border-radius: 2px;
+}
